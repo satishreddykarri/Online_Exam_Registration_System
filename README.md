@@ -62,6 +62,4 @@ The primary goal of this system is to:
 
 - Automated email/SMS alerts  
 - Digital hall ticket generation  
-- Admin panel for exam management  
-- Multi-language support  
-- Mobile app integration 
+
