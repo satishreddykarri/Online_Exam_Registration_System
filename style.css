@@ -1,0 +1,24 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card {
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.btn-custom {
+  background-color: #007bff;
+  color: white;
+  border-radius: 10px;
+}
+
+.btn-custom:hover {
+  background-color: #0056b3;
+}
